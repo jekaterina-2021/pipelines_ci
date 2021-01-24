@@ -1,7 +1,7 @@
 ---
     format_version: 2
     common:
-      deploy-tasks: &delpoy-tasks
+      deploy-tasks: &deploy-tasks
         - exec:
             command: bash
             arguments:
